@@ -6,7 +6,7 @@
 
 **AI를 실제로 사용할 수 있는 제품으로 연결합니다.**
 
-동아대학교 인공지능학과 재학 · Software Engineer
+동아대학교 AI학과 재학 · Software Engineer
 
 [Portfolio](https://github.com/wnsrud2002/portfolio) &nbsp; / &nbsp; [Repositories](https://github.com/wnsrud2002?tab=repositories) &nbsp; / &nbsp; [Study notes](https://wnsrud2002.github.io/mqtt-study/)
 
