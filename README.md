@@ -36,6 +36,14 @@ ENGINEERING → 성능, 접근성, 사용 경험의 작은 디테일
 
 ### 02 / Featured Projects
 
+#### [온글 · Ongeul ↗](https://github.com/wnsrud2002/ongeul)
+
+**한글·오피스·PDF 문서를 로컬에서 Markdown으로 — "변환했다"와 "보존했다"를 구분하는 변환기**
+
+대부분의 변환기는 결과 파일이 나오면 성공이라고 말합니다. 온글은 원본을 **변환기와 다른 경로로 한 번 더 읽어** 글자·셀·수식·자산을 대조하고, 통과한 것만 `success` 로 표시합니다. HWP 5.x 바이너리(CFB + 레코드), PDF 객체·스트림·폰트 인코딩, 구형 엑셀 BIFF8 리더와 TrueType 부분집합 추출을 모두 직접 구현해 **외부 의존성이 0개**입니다. 실제 문서 **526개**로 검증했고, 리눅스·macOS·윈도우 × 파이썬 3.11–3.13 CI에서 테스트 119개가 돕니다.
+
+`Python` `HWP` `OOXML` `PDF` `Reverse Engineering` `tkinter`
+
 #### Fitness-Health · APTAMS
 
 **대학생 체력 평가·모니터링 시스템 · 국제 여름캠프 2등 수상작**
@@ -97,6 +105,7 @@ Vision + Core ML 기반 얼굴 임베딩 매칭과 MiniFASNet 위조 탐지를 �
 | **Native & Mobile** | Swift · SwiftUI · MapKit · Kotlin · Jetpack Compose |
 | **Web & Backend** | TypeScript · React · FastAPI · Flask · Spring Boot |
 | **Data & Messaging** | SQLite · MQTT · Mosquitto · FCM |
+| **Formats & Parsers** | HWP 5.x · CFB(OLE) · OOXML · PDF · BIFF8 · TrueType |
 
 ### 04 / Learning in Public
 
